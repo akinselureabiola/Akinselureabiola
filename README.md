@@ -1,37 +1,43 @@
-👋 Hi, I'm Abiola Desmond Akinseleure
+# 👋 Hi, I'm Abiola Desmond Akinseleure
 
-IT Support & Systems Administrator | Microsoft 365 | Active Directory | Windows Infrastructure
+## IT Support Professional | Microsoft 365 | Active Directory | Windows Troubleshooting
 
-Detail-oriented IT professional with hands-on experience delivering SLA-driven 1st and 2nd line support in Windows-based environments. I specialize in Active Directory administration, user lifecycle management, ticket-based incident handling, and structured troubleshooting across enterprise IT environments.
+I am an early-career IT Support professional with hands-on experience in Microsoft 365 administration, Active Directory user management, and structured incident handling within a Jira-based helpdesk environment.
 
-🔹 Supporting 80+ users in production environments
-🔹 Resolving up to 90% of tickets within SLA
-🔹 Improving documentation processes to reduce recurring incidents
-🔹 Managing Microsoft 365 & AD identity operations
+I focus on disciplined troubleshooting, access control management, and documenting incidents using ITIL-aligned practices. Alongside real support experience, I build enterprise-style lab simulations to strengthen my understanding of Windows infrastructure and identity services.
 
-🛠 Technical Focus Areas
+- 🔹 Experience supporting ~50 users in a helpdesk environment  
+- 🔹 Microsoft 365 account administration & MFA configuration  
+- 🔹 Active Directory user & security group management  
+- 🔹 Structured incident documentation & root cause analysis  
 
-Active Directory User & Group Management
+---
 
-Windows 10/11 & Windows Server Administration
+## 🛠 Technical Focus Areas
 
-Microsoft 365 (Exchange Online, MFA, Access Control)
+- IT Support & Incident Handling  
+- Microsoft 365 Administration  
+- Active Directory User & Group Management  
+- Windows 10/11 Troubleshooting  
+- DNS Fundamentals  
+- Access Control & Permission Management  
+- ITIL-based Ticket Lifecycle Practices  
 
-NTFS & Share Permission Analysis
+---
 
-DNS / DHCP / VPN Troubleshooting
+## 📂 Featured IT Support Portfolio
 
-ITIL-based Ticket Lifecycle Management
+🔗 **[IT-Support-Infrastructure-Lab-Portfolio](https://github.com/akinselureabiola/IT-Support-Infrastructure-Lab-Portfolio)**
 
-Incident Documentation & Root Cause Analysis
+This repository documents structured IT support case studies including:
 
-📂 Featured IT Support Portfolio
+- ✔ Active Directory Security Group Access Investigation  
+- ✔ DNS Resolution Troubleshooting (Hostname Failure Case Study)  
+- ✔ ITIL Ticket Lifecycle Simulation  
+- ✔ Windows Performance & Access Control Troubleshooting  
 
-🔗 IT-Support-Portfolio
+---
 
-This repository documents real-world IT support scenarios including:
+## 📈 Continuous Development
 
-✔ Active Directory Security Group Access Lab
-✔ ITIL Ticket Lifecycle Simulation
-✔ Windows Troubleshooting Case Studies
-✔ Access Control & Permission Audits
+I am continuously expanding my knowledge in Windows infrastructure, identity management, and structured IT operations to grow within enterprise IT support environments.
