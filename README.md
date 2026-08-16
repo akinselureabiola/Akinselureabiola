@@ -1,4 +1,4 @@
-## 💼 About Me
+##  About Me
 
 I’m an IT Support-focused professional with hands-on experience working with Active Directory, Microsoft 365, and Windows environments.
 
@@ -29,7 +29,7 @@ Each lab is structured like a real support ticket — starting from the user’s
 
 ---
 
-## 🖥️ Lab Environment
+## Lab Environment
 
 To simulate a realistic working environment, I built a small lab using:
 
@@ -42,7 +42,7 @@ This setup allows me to test how users, systems, and network services interact i
 
 ---
 
-## 🧑‍💻 Skills Practiced
+## Skills Practiced
 
 Across these labs, I’ve worked on:
 
@@ -58,7 +58,7 @@ Across these labs, I’ve worked on:
 
 ---
 
-## 🔍 Example Scenarios
+## Example Scenarios
 
 Some of the real-world issues I worked through include:
 
@@ -73,7 +73,7 @@ Some of the real-world issues I worked through include:
 
 ---
 
-## ⚙️ How I Approach Problems
+## How I Approach Problems
 
 For each issue, I follow a simple and consistent process:
 
@@ -86,7 +86,7 @@ For each issue, I follow a simple and consistent process:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 I built this portfolio to practice working like an IT Support professional.
 
@@ -99,7 +99,7 @@ Instead of just learning concepts, I focused on:
 
 ---
 
-## 🚀 Where to Start
+## Where to Start
 
 If you're reviewing this portfolio for IT Support or Junior SysAdmin roles, these are good starting points:
 
